@@ -1,0 +1,33 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# Distribution / build
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+pyinstaller-debug.log
+pyinstaller-venv-debug*.log
+
+# Database and data files (do not commit local DBs or generated Excel templates)
+*.db
+*.sqlite
+*.sqlite3
+*.xlsx
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Ignore editor/IDE folders
+.vscode/
+.idea/
